@@ -6,7 +6,7 @@ I'm Pedro Silva - @pedrops
 </p>
 
 <p align="center">
-  <img src="https://github.com/itpedrops/PedrOps/blob/main/images/kubernetes-testing2.gif" alt="animated" />
+  <img src="https://github.com/itpedrops/itpedrops/blob/main/images/kubernetes-testing2.gif" alt="animated" />
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renatoruis)](https://github.com/renatoruis)
