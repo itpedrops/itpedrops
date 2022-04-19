@@ -57,4 +57,4 @@ I'm Pedro Silva - @pedrops
 ![image](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ServiceMesh 💾💾💾
-https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white
+![image](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
