@@ -1,10 +1,8 @@
-<p align='center'>
-  ### Welcome Folks
-</p>
 <h1 align='center'> Hi! :wave:</h1>
 
 <p align='center'>
-I'm ### Pedro Silva - @pedrops
+  Hi Folks
+I'm Pedro Silva - @pedrops
 </p>
 
 <p align="center">
