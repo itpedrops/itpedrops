@@ -25,7 +25,6 @@ I'm Pedro Silva - @pedrops
 ### Automation 🔧🔧🔧
 ![image](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
 ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![image](https://img.shields.io/badge/OpenStack-EA2046?style=for-the-badge&logo=openstack&logoColor=white)
 
 ### O.S  🖥️🖥️🖥️
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
@@ -56,5 +55,5 @@ I'm Pedro Silva - @pedrops
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 
-### ServiceMesh 💾💾💾
+### ServiceMesh 💾💾💾 [Starting....]
 ![image](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
