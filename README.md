@@ -1,9 +1,24 @@
 <h1 align='center'> Hi! :wave:</h1>
-
 <p align='center'>
   Hi Folks
 I'm Pedro Silva - @pedrops
 </p>
+I'm a migration specialist when we talk about moving systems to the cloud or micro-services using transformations or as is. 
+I have some cloud certifications,.
+  Amazon Web Services
+    - AWS Solutions Architect - Associate
+    - AWS Solutions Architect - Professional
+  Google Cloud    
+  - Cloud Enginner - Associate
+  - GCP Architect - Professional
+  Azure Microsoft  
+  - Implementing Microsoft Azure Infrastructure Solutions  70-533 (2018)
+  - Azure fundamentals 2022
+  Oracle Cloud   
+  - Oci fundamentals 2022
+
+I'm learning a lot about DevOps over the last 12 months,
+In this moment I'm Working on career transition from SYSTEM ENGINNER to SRE/DevOps Enginner.
 
 <p align="center">
   <img src="https://github.com/itpedrops/itpedrops/blob/main/images/kubernetes-testing2.gif" alt="animated" />
