@@ -27,7 +27,8 @@ I'm a migration specialist when we talk about moving systems to the cloud or mic
 <h1 align='center'> Oracle Cloud</h1>    
 :white_check_mark:OCI fundamentals 2022.
   
-I'm learning a lot about DevOps over the last 12 months,
+I'm learning a lot about DevOps over the last 12 months.
+
 In this moment I'm Working on career transition from SYSTEM ENGINNER to SRE/DevOps Enginner.
 </p>
 
