@@ -3,6 +3,9 @@
   Hi Folks
 I'm Pedro Silva - @pedrops
 </p>
+<p align="center">
+  <img src="https://github.com/itpedrops/itpedrops/blob/main/images/kubernetes-testing2.gif" alt="animated" />
+</p>
 <p>
 I'm a migration specialist when we talk about moving systems to the cloud or micro-services using transformations or as is. 
 I have some cloud certifications.
@@ -27,9 +30,6 @@ I have some cloud certifications.
   
 I'm learning a lot about DevOps over the last 12 months,
 In this moment I'm Working on career transition from SYSTEM ENGINNER to SRE/DevOps Enginner.
-</p>
-<p align="center">
-  <img src="https://github.com/itpedrops/itpedrops/blob/main/images/kubernetes-testing2.gif" alt="animated" />
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renatoruis)](https://github.com/itpedrops)
