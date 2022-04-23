@@ -8,7 +8,6 @@ I'm Pedro Silva - @pedrops
 </p>
 <p>
 I'm a migration specialist when we talk about moving systems to the cloud or micro-services using transformations or as is. 
-I have some cloud certifications.
 
 <h1 align='center'> Amazon Web Services</h1> 
 :white_check_mark: AWS Solutions Architect - Associate.
