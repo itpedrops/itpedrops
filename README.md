@@ -26,7 +26,9 @@ I'm a migration specialist when we talk about moving systems to the cloud or mic
 
 <h1 align='center'> Oracle Cloud</h1>    
 :white_check_mark:OCI fundamentals 2022.
-  
+</p>
+
+<p>
 I'm learning a lot about DevOps over the last 12 months.
 </p>
 
