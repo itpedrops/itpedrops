@@ -28,9 +28,11 @@ I'm a migration specialist when we talk about moving systems to the cloud or mic
 :white_check_mark:OCI fundamentals 2022.
   
 I'm learning a lot about DevOps over the last 12 months.
+</p>
+
 
 In this moment I'm Working on career transition from SYSTEM ENGINNER to SRE/DevOps Enginner.
-</p>
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renatoruis)](https://github.com/itpedrops)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrops-it/)](https://www.linkedin.com/in/pedrops-it/)
