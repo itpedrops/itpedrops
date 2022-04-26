@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
   Hi Folks
-I'm Pedro Silva - @pedrops
+I'm - @pedrops
 </p>
 <p align="center">
   <img src="https://github.com/itpedrops/itpedrops/blob/main/images/kubernetes-testing2.gif" alt="animated" />
