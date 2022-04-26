@@ -29,7 +29,7 @@ I'm a migration specialist when we talk about moving systems to the cloud or mic
 </p>
 
 <p>
-I'm learning a lot about DevOps over the last 12 months.
+I'm learning a lot about DevOps over the last years.
 </p>
 
 
