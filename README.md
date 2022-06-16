@@ -51,6 +51,10 @@ In this moment I'm Working on career transition from SYSTEM ENGINNER to SRE/DevO
 ### Containers 🚢🚢🚢
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+### CI / CD 📦📦📦
+![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+[[![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://img.shields.io/badge/ArgoCD-FFA500?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://img.shields.io/badge/ArgoCD-FFA500?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ### Automation 🔧🔧🔧
 ![image](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
 ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -67,7 +71,4 @@ In this moment I'm Working on career transition from SYSTEM ENGINNER to SRE/DevO
 ### O.S  🖥️🖥️🖥️
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-### CI / CD 📦📦📦
-![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
-![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
