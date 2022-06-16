@@ -7,8 +7,7 @@ I'm - @pedrops
   <img src="https://github.com/itpedrops/itpedrops/blob/main/images/kubernetes-testing2.gif" alt="animated" />
 </p>
 <p>
-I'm a migration specialist when we talk about moving systems to the cloud or micro-services using transformations or as is. 
-
+I'm a migration specialist when we talk about moving systems to the cloud or micro-services with K8s.
 <h1 align='center'> Amazon Web Services</h1> 
 :white_check_mark: AWS Solutions Architect - Associate.
   
