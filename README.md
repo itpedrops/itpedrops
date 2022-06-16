@@ -55,6 +55,7 @@ In this moment I'm Working on career transition from SYSTEM ENGINNER to SRE/DevO
 ![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![image](https://img.shields.io/badge/ArgoCD-FFA500?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ### Automation 🔧🔧🔧
 ![image](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
 ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
